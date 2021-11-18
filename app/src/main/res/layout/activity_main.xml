@@ -23,7 +23,6 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_margin="32dp"
-        android:fontFamily="@font/coiny"
         android:text="@string/ringing_button_text"
         android:textSize="24sp"
         app:cornerRadius="15dp"
